@@ -1,7 +1,7 @@
 //Display name of a day based on number entered.
  
 import java.util.*;
-class Array{
+class ExampleTwo{
   public static void main(String[] args) {
     Scanner sc=new Scanner(System.in);
     int day=sc.nextInt();
