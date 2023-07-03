@@ -1,3 +1,5 @@
+//Display the type/ extension of website and also display the protocol used in the website
+
 import java.util.*;
 class Example{
   public static void main(String[] args) {
