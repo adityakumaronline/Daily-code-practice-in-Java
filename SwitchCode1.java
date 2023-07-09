@@ -1,5 +1,3 @@
-//Display the type/ extension of website and also display the protocol used in the website
-
 import java.util.*;
 class SwitchCodeOne{
   public static void main(String[] args) {
@@ -11,7 +9,7 @@ class SwitchCodeOne{
     int secondNum=sc.nextInt();
     System.out.println("Enter the operation you want to perform: ");
     int operation=sc.nextInt();
-    switch (operation) {
+    switch (operation){
       case 1: 
         System.out.println(firstNum+secondNum);      
         break;
