@@ -1,7 +1,7 @@
 //Display the type/ extension of website and also display the protocol used in the website
 
 import java.util.*;
-class MenuDrivenProgram{
+class SwitchCodeOne{
   public static void main(String[] args) {
     Scanner sc=new Scanner(System.in);
     System.out.println("Menu: 1. add, 2. sub, 3. mul, 4. div");
