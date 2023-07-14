@@ -1,3 +1,6 @@
+/* Armstrong number is a number that is equal to the sum of cubes of its digits. For example 0, 1, 153, 370, 371 and 407 are the Armstrong numbers.
+   Lets take 153, it is an Armstrong number because it has 3 digits and: 153 = 1^3 + 5^3 + 3^3                                                   */
+
 java.util.*;
 class ArmstrongNumber{
    public static void main(String[] args) {
