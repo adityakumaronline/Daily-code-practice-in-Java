@@ -1,16 +1,13 @@
 import java.util.Scanner;
 
-public class SumAgain
-{
-    public static void main(String[] args)
-  {
+public class SumAgain{
+    public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
      
         int number1, number2;
         char choice;
         
-        do
-        {
+        do{
             System.out.print("Enter the first number ");
             number1 = sc.nextInt();
           
