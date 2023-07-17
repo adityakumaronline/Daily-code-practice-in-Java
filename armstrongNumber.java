@@ -9,11 +9,11 @@ class ArmstrongNumber{
        int n=scan.nextInt();
        int m=n;
        int sum=0;
-       int r;
+       int remainder;
        while(n>0){
-        r=n%10;
+        remainder=n%10;
         n=n/10;
-        sum=sum+r*r*r;
+        sum=sum+remainder*remainder*remainder;
        }
        if(sum==m){
             System.out.println("Its a Armstrong Number");
