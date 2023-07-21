@@ -2,7 +2,7 @@ import java.util.*;
 class SwitchCodeOne{
   public static void main(String[] args) {
     Scanner sc=new Scanner(System.in);
-    System.out.println("Menu: 1. add, 2. sub, 3. mul, 4. div");
+    System.out.println("Menu: 1. add, 2. sub, 3. mul, 4. divide");
     System.out.println("Enter first numeber: ");
     int firstNum=sc.nextInt();
     System.out.println("Enter second number: ");
